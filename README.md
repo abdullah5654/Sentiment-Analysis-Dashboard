@@ -22,4 +22,5 @@ Bar chart
 
 **To run this script, use the following command in your terminal:**
 streamlit run sentiment_dashboard.py
+**or**
 python -m streamlit run sentiment_dashboard.py
